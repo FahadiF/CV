@@ -1,1 +1,1 @@
-# Simple HTML Resume
+# Simple Resume - CSS
