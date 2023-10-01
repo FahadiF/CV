@@ -1,1 +1,1 @@
-# CV
+# Simple HTML Resume
